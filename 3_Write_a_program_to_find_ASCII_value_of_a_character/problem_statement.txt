@@ -1,0 +1,7 @@
+write a program to find ASCII values of a character
+
+sample input/output
+
+A -> 65
+a -> 97
+Hello -> Please enter only a single character
