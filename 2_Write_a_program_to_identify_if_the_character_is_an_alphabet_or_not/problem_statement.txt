@@ -1,0 +1,11 @@
+write a program to identify if the character is an alphabet or not
+
+Sample Input / Output
+
+A -> Given string is alphabetical
+h ->Given string is alphabetical
+7 -> Not alphabetical
+\ ->Not alphabetical
+@ ->Not alphabetical
+Abc15 ->Not alphabetical
+Abcd -> Given string is alphabetical
