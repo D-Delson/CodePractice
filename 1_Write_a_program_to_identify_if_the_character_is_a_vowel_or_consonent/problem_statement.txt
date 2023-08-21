@@ -1,0 +1,9 @@
+Write a program to identify if the character is a vowel or consonent
+
+Sample Input/Output
+
+A -> vowel
+b -> consonant
+# -> not a letter
+15 -> not a letter
+
