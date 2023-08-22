@@ -1,0 +1,7 @@
+Write a program to identify of the a number is positive or negative
+
+Sample Input/Output
+
+-7 -> negative
+7  -> positive
+0  -> Zero
