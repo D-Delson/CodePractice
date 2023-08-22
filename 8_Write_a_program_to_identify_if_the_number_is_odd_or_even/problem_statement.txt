@@ -1,0 +1,9 @@
+Write a program to identivy if the number is odd or even
+
+Sample Input/Output
+
+-6 -> even
+0  -> even
+4  -> even
+3  -> odd
+-3 -> odd
