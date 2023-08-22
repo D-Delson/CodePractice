@@ -1,0 +1,6 @@
+Write a program to find fibonacii series up to n
+
+Sample Input/Output
+
+10 -> 0, 1, 1, 2, 3, 5, 8, 13, 21, 34
+0  -> Please enter a positive number!
