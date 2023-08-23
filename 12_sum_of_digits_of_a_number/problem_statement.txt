@@ -1,0 +1,8 @@
+Write a program to find sum of digits of a number
+
+12345 -> 1 + 2 + 3 + 4 + 5 = 15
+
+Sample Input/Output:
+
+12345 -> 15
+
