@@ -1,0 +1,6 @@
+Write a program to find Area of the Triangle
+
+Formula:
+    Area = 0.5 * base * height
+
+Sample Input/Output
