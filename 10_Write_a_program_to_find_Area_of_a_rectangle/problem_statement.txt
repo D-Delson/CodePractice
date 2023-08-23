@@ -1,0 +1,9 @@
+Write a program to find Area of a Rectangle
+
+Formula:
+    Area = length * width
+
+Sample Input/Output
+
+1, 1 -> 1 cm^2
+5, 5 -> 25 cm^2
