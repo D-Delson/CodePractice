@@ -16,7 +16,6 @@ def reverse_integer(n: int) -> list:
         reversed_digits.append(last_digit)
         n //= 10
         
-    # Convert list of digits back to integer
     return reversed_digits
 
 if __name__ == '__main__':
