@@ -1,0 +1,5 @@
+Write a program to find whether a number is strong number or not
+
+Ex:
+145 = 1! + 4! + 5! == 1 + 24 + 120 = 145
+
