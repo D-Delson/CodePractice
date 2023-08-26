@@ -1,0 +1,4 @@
+write a program to find power of a number
+
+3 ^ 2 = 6
+3 ^ 3 = 9
