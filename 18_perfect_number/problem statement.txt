@@ -1,0 +1,4 @@
+Write a program to find whether a number is perfect number or not
+
+ex: 
+6 = 1 + 2 + 3(divisors of 6) = 6
