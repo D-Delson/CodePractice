@@ -1,0 +1,5 @@
+Write a program to print prime numbers in a given range
+
+Sample input and output
+
+10 20 -> 11, 13, 17, 19, 23, 29
