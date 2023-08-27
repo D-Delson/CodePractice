@@ -1,0 +1,6 @@
+Write a program to replace all the 0's with 1 in an integer
+
+Sample Input/Output
+
+10 -> 11
+30 -> 31
