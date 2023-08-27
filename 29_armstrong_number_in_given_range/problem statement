@@ -1,0 +1,5 @@
+Write a program to print Armstrong numbers between two intervals
+
+Sample Input/Output
+
+1000, 10000 -> 1634, 8208, 9474
