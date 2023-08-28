@@ -1,0 +1,8 @@
+Write a program to find number of days in a given month of a year
+
+Sample input/output
+
+year : 2003
+month : 2
+
+-> 28 days
