@@ -1,0 +1,11 @@
+Write a program to print pyramid pattern using numbers
+
+input : 5
+
+output 
+
+    1
+   121
+  12321
+ 1234321
+123454321

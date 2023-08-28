@@ -2,7 +2,7 @@ def pyramid(rows):
     for i in range(rows):
         #print spaces
         for _ in range(rows-i-1):
-            print(' ', end = '')
+            print('a', end = '')
         #print star
         for _ in range(2*i+1):
             print('*', end='')
