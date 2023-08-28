@@ -1,0 +1,8 @@
+Write a program to calculate maximum number of handshakes
+
+
+mathematical formula : (n * (n - 1)) / 2
+
+sample input/output
+
+4 -> 6
