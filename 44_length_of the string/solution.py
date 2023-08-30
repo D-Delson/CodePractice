@@ -4,4 +4,4 @@ def length(str):
         count += 1
     return count
 
-print(length('Agnes Varsha'))
+print(length('Khan Academy'))
