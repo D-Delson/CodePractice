@@ -1,0 +1,12 @@
+Write a program to Insert an elment to the array
+
+sample Input/Output:
+
+Enter the length of the array: 5
+Enter the array elments: 1, 2, 3, 4, 5
+Enter the position of the new element: 2
+Enter the new element: 10
+
+Output
+
+1, 10, 2, 3, 4, 5
