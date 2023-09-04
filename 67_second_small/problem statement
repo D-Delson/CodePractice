@@ -1,0 +1,5 @@
+Write a program to find second smallest element in the array
+
+input -> [0, 0, 1, 1, 1, 5, 78]
+
+output -> 1
