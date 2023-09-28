@@ -11,3 +11,7 @@ def square(num):
 
 print(square(2))
 print(square.__doc__)
+
+import numpy as np
+
+print(np.fft.__doc__)
