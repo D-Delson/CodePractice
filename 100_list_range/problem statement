@@ -1,0 +1,9 @@
+create a list with the range of [1 to 20]
+
+print first 5 elements
+
+print last 5 elements
+
+print every elements without the first five elements
+
+print every elements without the last five elements
